@@ -5,4 +5,4 @@
 - YouTube Clone using HTML & CSS.
 - I did it as a CSS exercise to practice positioning and layout.
 
-![testspotify](/Picsart_24-01-06_13-41-05-026.png)
+![YouTube_clone](/Screenshot 2024-01-06 133415.png)
